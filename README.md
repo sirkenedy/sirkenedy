@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=I'm+Kehinde+Samuel+Owoputi.+A+fullstack+Developer;With+great+passion+for+Backend+Development)](https://git.io/typing-svg)
 
 ### <div align = "center">Hi👋, I'm  Kehinde Samuel Owoputi 😊. 
   <p> I am a Backend developer, Technical Writer, Public Speaker and Volunteer. I am interested in taking all things the backend way 😜.  

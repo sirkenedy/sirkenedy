@@ -8,13 +8,13 @@
 
 
 
-- 🔭 I’m currently working on building a solution for Inventors Build for Sdgs Challenge❤.
-- 🌱 I’m currently learning Laravel.
-- 👯 I’m looking to collaborate on open-source back-end projects and building sustainable tech communities.
-- 🤔 I’m looking for help with more advanced knowledge on Laravel and a possible diversification to DevOps.
+- 🔭 I’m currently working at AA LLC as a Software Engineer❤.
+- 🌱 I’m currently architecting software solution and learning newq ways to become a better engineer.
+- 👯 I’m looking to collaborate on open-source projects and building sustainable tech communities.
+- 🤔 I’m looking to learn and mentored by co-developers with more experience in software engineering.
 - 💬 Ask me about Volunteering, Backend Engineering and Database Engineering.
-- 😄 Pronouns: Her/She 💕
-- ⚡ Fun fact: I am in a radiant relationship with the Holy Spirit😉
+- 😄 Pronouns: He/Him 💕
+- ⚡ Fun fact: I'm the best dancer but only in my room😉
 
 I create technical content on hashnode and developers community , here are some of my articles🤩:
 * [How To connect Laravel Application to MySQL Database.](https://dev.to/roxie/how-to-connect-laravel-application-to-mysql-database-5han)
